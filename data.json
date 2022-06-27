@@ -1,8 +1,8 @@
 {
-	"name": "César Medrano",
-	"location": "Valle de Santiago, Guanajuato",
-	"number": "4561290529",
-	"email": "medranoc217@gmail.com",
+	"name": "César M",
+	"location": "Guanajuato",
+	"number": "9999999999",
+	"email": "mail@gmail.com",
 	"summary": "I have experience with linux, on premise virtual machines, and networks administration. Also i have done some programming work using Python and Javascript.",
 	"skills": "Linux,  Python,  Networks,  Research skills,  Self learner,  English B2",
 	"experience": [
@@ -21,12 +21,12 @@
 	"education": [
 	  {
 		"institution": "Universidad Tecnológica del Suroeste de Guanajuato",
-		"degree": "Informatin and communication technologies Engineering",
-		"coursework": "web development, Processes management and Networks"
+		"degree": "Information and communication technologies Engineering",
+		"coursework": "Web development, Processes management and Networks"
 	  },
 	  {
 		"institution": "Bayonne",
-		"degree": "Adminisrtator systemes et reseaux",
+		"degree": "Administrateur systemes et reseaux",
 		"coursework": "Web development, Server management and Networks"
 	  }
 	],
